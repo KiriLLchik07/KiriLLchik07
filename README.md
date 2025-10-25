@@ -1,10 +1,10 @@
 <!-- Верхний баннер -->
-<div align="center">
+<div align="start">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=200&section=header&text=Data%20Science%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 
   <h1> 👋 Всем привет! </h2>
   
-  <h2> 🚀 Специалист по машинному обучению и анализу данных </h2>
+  <h2> 🚀 Я специалист по машинному обучению и анализу данных </h2>
   
   <p>
     <i>Фундаментальные знания в области ML и Data Science. Полный цикл решения задач: от предобработки данных до построения и внедрения моделей.</i>
