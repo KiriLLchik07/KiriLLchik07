@@ -116,11 +116,6 @@
     <a href="https://t.me/KirrrCHick" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    &nbsp;
-    <a href="mailto:kirill3456777@mail.ru" target="_blank">
-      <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
-    </a>
-    &nbsp;
     <a href="https://github.com/KiriLLchik07" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
