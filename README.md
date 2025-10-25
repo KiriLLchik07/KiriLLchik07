@@ -1,6 +1,8 @@
 <!-- Верхний баннер -->
 <div align="start">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=200&section=header&text=Data%20Science%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=200&section=header&text=Data%20Science%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+  </div>
 
   <h1> 👋 Всем привет! </h2>
   
@@ -28,12 +30,12 @@
 
   <h3> 🤖 Машинное обучение </h3>
   
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
   <p><b>Навыки:</b> Бинарная и многоклассовая классификация, регрессия, кластеризация</p>
@@ -125,5 +127,7 @@
   </p>
 
   <!-- Нижний баннер -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=150&section=footer" alt="Footer"/>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=150&section=footer" alt="Footer"/>
+  </div>
 </div>
