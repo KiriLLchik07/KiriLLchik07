@@ -113,16 +113,12 @@
   <h2> 📫 Свяжитесь со мной </h2>
   
   <p>
-    <a href="https://t.me/your_telegram" target="_blank">
+    <a href="https://t.me/KirrrCHick" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;
-    <a href="mailto:your.email@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="mailto:kirill3456777@mail.ru" target="_blank">
+      <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
     </a>
     &nbsp;
     <a href="https://github.com/KiriLLchik07" target="_blank">
