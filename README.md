@@ -6,7 +6,7 @@
 
   <h1> 👋 Всем привет! </h2>
   
-  <h2> 🚀 Я специалист по машинному обучению и анализу данных </h2>
+  <h2> Я специалист по машинному обучению и анализу данных </h2>
   
   <p>
     <i>Фундаментальные знания в области ML и Data Science. Полный цикл решения задач: от предобработки данных до построения и внедрения моделей.</i>
@@ -15,7 +15,7 @@
   ---
 
   <!-- Обо мне -->
-  <h2> 👨‍💻 Обо мне </h2>
+  <h2> Обо мне </h2>
   
   <p>
     Студент 3 курса Омского государственного технического университета по направлению <br/>
@@ -28,7 +28,7 @@
   <!-- Технический стек -->
   <h2> 🛠️ Технический стек </h2>
 
-  <h3> 🤖 Машинное обучение </h3>
+  <h3> Машинное обучение </h3>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -41,19 +41,19 @@
   <p><b>Навыки:</b> Бинарная и многоклассовая классификация, регрессия, кластеризация</p>
   <p><b>Ансамбли:</b> Gradient Boosting (LightGBM, CatBoost, XGBoost), Bagging (RandomForest)</p>
 
-  <h3> 🧠 Глубинное обучение </h3>
+  <h3> Глубокое обучение </h3>
   
   <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
 
   <p><b>Навыки:</b> Построение и обучение нейронных сетей для задач классификации и регрессии</p>
 
-  <h3> ⚙️ Предобработка данных </h3>
+  <h3> Предобработка данных </h3>
   
   <p><b>Feature Engineering:</b> очистка данных, работа с пропусками, кодирование категориальных признаков, масштабирование</p>
   <p><b>Понижение размерности:</b> PCA, LDA, t-SNE</p>
 
-  <h3> 💾 Базы данных и разработка </h3>
+  <h3> Базы данных и разработка </h3>
   
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
@@ -65,14 +65,14 @@
   ---
 
   <!-- Математическая база -->
-  <h2> 📊 Математическая база </h2>
+  <h2> Математическая база </h2>
   
   <div align="left" style="display: inline-block;">
     <ul>
-      <li>📈 Линейная алгебра</li>
-      <li>📊 Математический анализ</li>
-      <li>🎯 Теория вероятностей и математическая статистика</li>
-      <li>🔢 Дискретная математика</li>
+      <li>Линейная алгебра</li>
+      <li>Математический анализ</li>
+      <li>Теория вероятностей и математическая статистика</li>
+      <li>Дискретная математика</li>
     </ul>
   </div>
 
@@ -98,7 +98,7 @@
   ---
 
   <!-- GitHub статистика -->
-  <h2> 📈 GitHub статистика </h2>
+  <h2> GitHub статистика </h2>
   
   <div align="center">
     <a href="https://github.com/KiriLLchik07">
@@ -112,7 +112,7 @@
   ---
 
   <!-- Контакты -->
-  <h2> 📫 Свяжитесь со мной </h2>
+  <h2> Свяжитесь со мной </h2>
   
   <p>
     <a href="https://t.me/KirrrCHick" target="_blank">
