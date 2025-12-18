@@ -1,10 +1,7 @@
 <!-- Верхний баннер -->
 <div align="start">
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=200&section=header&text=Data%20Science%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header"/>
-  </div>
 
-  <h1> 👋 Всем привет! </h2>
+  <h1> Всем привет! </h2>
   
   <h2> Я специалист по машинному обучению и анализу данных </h2>
   
@@ -126,8 +123,4 @@
     </a>
   </p>
 
-  <!-- Нижний баннер -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7cb9e8,100:00308F&height=150&section=footer" alt="Footer"/>
-  </div>
 </div>
