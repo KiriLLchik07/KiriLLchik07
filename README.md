@@ -47,7 +47,7 @@
 ## 📊 GitHub статистика
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiriLLchik07&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiriLLchik07&theme=solarized_dark)</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiriLLchik07&theme=solarized_dark)
 
   <h2> Свяжитесь со мной </h2>
   
