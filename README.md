@@ -47,9 +47,33 @@
 ## 📊 GitHub статистика
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiriLLchik07&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiriLLchik07&theme=solarized_dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiriLLchik07&theme=solarized_dark" />
+</div>
 
-  <h2> Свяжитесь со мной </h2>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiriLLchik07&theme=solarized_dark" />
+      </td>
+      <td>
+        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiriLLchik07&theme=solarized_dark" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiriLLchik07&theme=solarized_dark" />
+      </td>
+      <td>
+        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KiriLLchik07&theme=solarized_dark" />
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+  <h2> Связь со мной </h2>
   
   <p>
     <a href="https://t.me/KirrrCHick" target="_blank">
