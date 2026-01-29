@@ -1,13 +1,13 @@
 <h1 align="center">Привет! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h4 align="center">Разрабатываю проекты и прикладные решения в области Machine Learning и Data Science</h4>
+<h4 align="center">Я разрабатываю проекты и прикладные решения в области Machine Learning и Data Science</h4>
 
 ---
 
-## Немного о себе
+# Немного о себе
 
-### 🧠 Технический стек
+## Технический стек
 
 ### Машинное обучение
 - Бинарная и многоклассовая классификация, регрессия, кластеризация  
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎓 Образование
+## Образование
 **Омский государственный технический университет**  
 Фундаментальная информатика и информационные технологии  
 Профиль: **Искусственный интеллект**  
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub статистика
+## GitHub статистика
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiriLLchik07&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
