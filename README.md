@@ -27,11 +27,13 @@
 - **SQLite, PostgreSQL**
 - **SQLAlchemy**
 - Векторные БД: **ChromaDB**
+- **NoSQL**: Redis
+- **S3**: MinIO
 
 ### MLOps & Backend
-- **MLflow**, Docker  
+- MLflow, Docker, Docker-Compose
 - **CI/CD**
-- API: **FastAPI**
+- **Backend**: FastAPI, SQLAlchemy, Alembic, Pytest, boto3
 - Интерфейсы и демо: **Streamlit**
 
 ---
@@ -40,51 +42,6 @@
 **Омский государственный технический университет**  
 Фундаментальная информатика и информационные технологии  
 Профиль: **Искусственный интеллект**  
-3 курс
+4 курс
 
 ---
-
-## GitHub статистика
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiriLLchik07&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiriLLchik07&theme=solarized_dark" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiriLLchik07&theme=solarized_dark" />
-      </td>
-      <td>
-        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiriLLchik07&theme=solarized_dark" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiriLLchik07&theme=solarized_dark" />
-      </td>
-      <td>
-        <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KiriLLchik07&theme=solarized_dark" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
----
-
-  <h2> Связь со мной </h2>
-  
-  <p>
-    <a href="https://t.me/KirrrCHick" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="https://vk.com/kirrrrrr07" target="_blank">
-      <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" />
-    </a>
-    <a href="https://github.com/KiriLLchik07" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
