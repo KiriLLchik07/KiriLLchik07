@@ -1,47 +1,21 @@
-<h1 align="center">Привет! 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+**Привет!** 👋
 
-<h4 align="center">Я разрабатываю проекты и прикладные решения в области Machine Learning и Data Science</h4>
+Меня зовут Кирилл. Я разрабатываю проекты и прикладные решения в области Machine Learning и Data Science. 
 
----
+## Проекты
 
-# Немного о себе
+- [AI Shopping Analyzer](https://github.com/KiriLLchik07/AI-shopping-analyzer). Веб-приложение для анализа расходов по фотографиям чеков. Распознаёт товары и суммы, позволяет скорректировать результат, проанализировать статистику расходов и формировать ежемесячные отчеты с помощью локальной LLM.
+- [RAG-система для Конституции РФ](https://github.com/KiriLLchik07/RAG-constitution-RF). Приложение для поиска ответов на вопросы по Конституции РФ. Использует RAG-пайплайн с векторным поиском, реранжированием найденных фрагментов и генерацией ответов на основе релевантных статей документа.
+- [Классификация клиентских запросов в банковской сфере](https://github.com/KiriLLchik07/Classification-of-customer-requests-in-the-banking-sector). Проект представляет собой end-to-end ML-систему для классификации текстовых запросов клиентов банка по определенному типу. Позволяет определить категорию запроса для его последующей маршрутизации.
+- [Предсказание оттока клиентов в банковской сфере.](https://github.com/KiriLLchik07/Bank-Customer-Churn-Prediction). Проект по прогнозированию оттока клиентов банка с помощью машинного обучения. Система идентифицирует клиентов с высоким риском ухода и предоставляет персонализированные рекомендации по их удержанию.
 
-## Технический стек
+## Навыки и технологический стек
 
-### Машинное обучение
-- Бинарная и многоклассовая классификация, регрессия, кластеризация  
-- Feature engineering, валидация, подбор гиперпараметров  
-- Ансамбли моделей: **LightGBM, CatBoost, XGBoost**
-
-### Python & Data Science
-- **Scikit-learn, Pandas, NumPy, SciPy**
-- Визуализация: **Matplotlib, Seaborn**
-
-### NLP & LLM
-- RNN, **BERT**, Transformers  
-- **LLM**, **RAG**
-- Работа с текстовыми эмбеддингами и векторными БД
-
-### Базы данных
-- **SQLite, PostgreSQL**
-- **SQLAlchemy**
-- Векторные БД: **ChromaDB**
-- **NoSQL**: Redis
-- **S3**: MinIO
-
-### MLOps & Backend
-- MLflow, Docker, Docker-Compose
-- **CI/CD**
-- **Backend**: FastAPI, SQLAlchemy, Alembic, Pytest, boto3
-- Интерфейсы и демо: **Streamlit**
-
----
+- **ML и DS:** Python, NumPy, pandas, scikit-learn, CatBoost, XGBoost, LightGBM.
+- **Deep Learning, NLP и LLM:** PyTorch, Transformers, BERT, DistilBERT, SentenceTransformers, Ollama, LangChain, RAG.
+- **Backend и MLOps:** FastAPI, Docker, MLflow, PostgreSQL, Redis, ChromaDB, MinIO, GitHub Actions.
+- **Анализ данных и статистика:** математическая статистика, проверка гипотез, A/B-тестирование, SQL, SciPy, Statsmodels, Matplotlib, Seaborn.
 
 ## Образование
-**Омский государственный технический университет**  
-Фундаментальная информатика и информационные технологии  
-Профиль: **Искусственный интеллект**  
-4 курс
-
----
+**Омский государственный технический университет (ОмГТУ)**
+Фундаментальная информатика и информационные технологии, 02.03.02. 4 курс
